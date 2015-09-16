@@ -3,10 +3,6 @@
 //The user has 4 tries to guess the number. If they guess right, the game congratulates them. 
 //Otherwise, they get a message saying what the correct number was, as well as their list of guesses.
 
-/*
-In this branch, re-write your number guessing game (from the basic javascript workshop) for the command line!
-Instead of using prompt and alert, you will have to use capabilities from NodeJS and any external module. 
-*/
 
 var prompt = require('prompt');
 
